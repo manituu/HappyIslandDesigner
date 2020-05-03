@@ -42,6 +42,9 @@ asyncFlowerDefinition.value = {
   tulipYellow: {
     img: 'static/sprite/flower/tulip-yellow.png',
   },
+  rosePink: {
+    img: 'static/sprite/flower/rose-pink.png',
+  },
   //    weedBush: {
   //      img: 'static/sprite/flower/weed-bush.png',
   //    },
