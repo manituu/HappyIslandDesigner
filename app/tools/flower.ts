@@ -42,8 +42,29 @@ asyncFlowerDefinition.value = {
   tulipYellow: {
     img: 'static/sprite/flower/tulip-yellow.png',
   },
+  roseBlack: {
+    img: 'static/sprite/flower/rose-black.png',
+  },
+  roseBlue: {
+    img: 'static/sprite/flower/rose-blue.png',
+  },
+  roseOrange: {
+    img: 'static/sprite/flower/rose-orange.png',
+  },
   rosePink: {
     img: 'static/sprite/flower/rose-pink.png',
+  },
+  rosePurple: {
+    img: 'static/sprite/flower/rose-purple.png',
+  },
+  roseRed: {
+    img: 'static/sprite/flower/rose-red.png',
+  },
+  roseWhite: {
+    img: 'static/sprite/flower/rose-white.png',
+  },
+  roseYellow: {
+    img: 'static/sprite/flower/rose-yellow.png',
   },
   //    weedBush: {
   //      img: 'static/sprite/flower/weed-bush.png',
